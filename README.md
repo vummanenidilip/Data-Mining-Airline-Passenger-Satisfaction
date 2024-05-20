@@ -242,7 +242,9 @@ By implementing these specific steps, the airline can work towards enhancing cus
 **Conclusion:**
 
 **Best Predictive Model:** Among logistic regression, decision trees, random forests, and neural networks, the Random Forest model demonstrated the highest accuracy in predicting passenger satisfaction, making it the recommended choice for real-time predictions and monitoring.
+
 **Key Areas for Improvement:** Focus on enhancing online boarding and in-flight Wi-Fi services, as these were identified as crucial factors contributing to passenger satisfaction. Evaluate and address concerns related to longer flight distances and consider operational improvements to minimize delays.
+
 **Continuous Monitoring and Staff Training:** Implement a continuous monitoring system using predictive models to collect real-time data on customer experiences, enabling proactive measures. Invest in staff training programs to improve on-board service, cleanliness, and overall professionalism, positively impacting passenger satisfaction.
 
 
